@@ -8,7 +8,8 @@
         {
           "id": "fae1701e-ee35-4a95-bc66-2bebf9a63944",       
         }
-      ]
+      ],
+      "decryption": "none"
     },
     "streamSettings": {
       "network": "ws"
