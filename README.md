@@ -3,12 +3,11 @@
 用于在 goorm上运行v2ray
 食用方法
 ```shell
-wget https://raw.githubusercontent.com/teasiu/goorm-v2ray/master/goormv2.sh
-chmod +x goormv2.sh
-./goormv2.sh
+wget https://raw.githubusercontent.com/2036/goorm/master/goorm.sh
+chmod +x goorm.sh
+./goorm.sh
 直接用goorm上的Run URL & Port域名和和443端口连接
-"id": "aa12098f-56f3-49ed-bd5d-267f3ce2e873"
-alterId": 64
+"id": "fae1701e-ee35-4a95-bc66-2bebf9a63944"
 "network": "ws"
 path:/
 tls
